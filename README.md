@@ -5,7 +5,10 @@
 </p>
 
 # KYC-Verification
-
+Discover seamless KYC verification on-the-go with our cutting-edge Android app. <br/>
+Our user-friendly interface allows you to swiftly complete your KYC process with ease. <br/>
+Powered by advanced AI technology, our app ensures accuracy and efficiency in identity verification. <br/>
+Say goodbye to lengthy paperwork and hello to hassle-free KYC verification with our Android app
 ## Try the APK
 
 <img src="https://github.com/kby-ai/KYC-Verification/assets/125717930/a48d097f-e11f-469d-abd5-b729f9c2520f" width=240/>
