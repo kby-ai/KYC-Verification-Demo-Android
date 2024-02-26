@@ -11,8 +11,7 @@ Enjoy swift and accurate identity verification directly from your Android device
 
 ## Try the APK
 
-<img src="https://github.com/kby-ai/KYC-Verification/assets/125717930/a48d097f-e11f-469d-abd5-b729f9c2520f" width=240/>
-
+<img src="https://github.com/kby-ai/KYC-Verification-Demo-Android/assets/125717930/5f28dba4-fead-4527-81af-e72aea66b961" width=240/>
 
 ## Please contact us to learn more:
 ```
