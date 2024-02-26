@@ -9,6 +9,10 @@ Easily complete your KYC verification using our Android app integrated with the 
 Our user-friendly interface allows you to swiftly complete your KYC process with ease.<br/>
 Enjoy swift and accurate identity verification directly from your Android device, eliminating the need for cumbersome paperwork. <br/>
 
+## Performance Video
+
+You can visit our YouTube video [here](https://www.youtube.com/shorts/RI_oHaYgTsQ) to check how well our demo app works.</br>
+
 ## Try the APK
 
 <img src="https://github.com/kby-ai/KYC-Verification-Demo-Android/assets/125717930/5f28dba4-fead-4527-81af-e72aea66b961" width=240/>
