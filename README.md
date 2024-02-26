@@ -12,7 +12,7 @@ Enjoy swift and accurate identity verification directly from your Android device
 ## Performance Video
 
 You can visit our YouTube video [here](https://www.youtube.com/shorts/RI_oHaYgTsQ) to check how well our demo app works.</br>
-[![Here](https://img.youtube.com/vi/RI_oHaYgTsQ/0.jpg)]([https://www.youtube.com/watch?v=RI_oHaYgTsQ])
+[![eKYC Verification Demo](https://img.youtube.com/vi/RI_oHaYgTsQ/0.jpg)](https://www.youtube.com/watch?v=RI_oHaYgTsQ)
 ## Try the APK
 
 <img src="https://github.com/kby-ai/KYC-Verification-Demo-Android/assets/125717930/5f28dba4-fead-4527-81af-e72aea66b961" width=240/>
