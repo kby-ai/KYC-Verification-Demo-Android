@@ -18,10 +18,8 @@ You can visit our YouTube video [here](https://www.youtube.com/shorts/RI_oHaYgTs
 <img src="https://github.com/kby-ai/KYC-Verification-Demo-Android/assets/125717930/5f28dba4-fead-4527-81af-e72aea66b961" width=240/>
 
 ## Please contact us to learn more:
-```
-Email: contact@kby-ai.com
-Telegram: @kbyai
-WhatsApp: +19092802609
-Skype: live:.cid.66e2522354b1049b
-Facebook: https://www.facebook.com/KBYAI
-```
+🧙`Email:` contact@kby-ai.com</br>
+🧙`Telegram:` @kbyai</br>
+🧙`WhatsApp:` +19092802609</br>
+🧙`Skype:` live:.cid.66e2522354b1049b</br>
+🧙`Facebook:` https://www.facebook.com/KBYAI</br>
