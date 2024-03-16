@@ -15,7 +15,7 @@ You can visit our YouTube video [here](https://www.youtube.com/watch?v=_YMfLr8Pd
 [![eKYC Verification Demo](https://img.youtube.com/vi/_YMfLr8PdoQ/0.jpg)](https://www.youtube.com/watch?v=_YMfLr8PdoQ)
 ## Try the APK
 
-<img src="https://github.com/kby-ai/KYC-Verification-Demo-Android/assets/125717930/5f28dba4-fead-4527-81af-e72aea66b961" width=240/>
+https://drive.google.com/file/d/1JZHk9rhK9i5P08IB5pTrcf5rk6vlXv-T/view?usp=sharing
 
 ## Please contact us to learn more:
 🧙`Email:` contact@kby-ai.com</br>
