@@ -5,8 +5,8 @@
 </p>
 
 # KYC-Verification Demo on Android
-Easily complete your KYC verification using our Android app integrated with the https://web.kby-ai.com API. <br/>
-Our user-friendly interface allows you to swiftly complete your KYC process with ease.<br/>
+We have built a KYC verification Android demo for digital onboarding by integrating our face liveness detection, face recognition(face matching), and ID card recognition API [here](https://web.kby-ai.com).</br>
+Our user-friendly interface allows you to swiftly complete your onboarding process with ease.<br/>
 Enjoy swift and accurate identity verification directly from your Android device, eliminating the need for cumbersome paperwork. <br/>
 
 ## Performance Video
