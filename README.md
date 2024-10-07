@@ -4,6 +4,8 @@
   </a>  
 </p>
 
+#### 🤗 Hugging Face - [Here](https://huggingface.co/kby-ai) <span> <img src="https://github.com/kby-ai/.github/assets/125717930/bcf351c5-8b7a-496e-a8f9-c236eb8ad59e" style="margin: 4px; width: 36px; height: 20px"> <span/>
+
 # KYC-Verification Demo on Android
 We have built a KYC verification Android demo for digital onboarding by integrating our face liveness detection, face recognition(face matching), and ID card recognition API [here](https://web.kby-ai.com).</br>
 Our user-friendly interface allows you to swiftly complete your onboarding process with ease.<br/>
